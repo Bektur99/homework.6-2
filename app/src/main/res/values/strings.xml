@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gallery</string>
+    <string name="choice_photo">Выбор фотографии</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="selected_image">Выбранные фотографии</string>
+    <string name="photo">\ фотографий\</string>
+</resources>
