@@ -1,8 +1,6 @@
 package com.example.gallery.activity
 
 import android.net.Uri
-import androidx.appcompat.app.AppCompatActivity
-import android.os.Bundle
 import android.view.LayoutInflater
 import androidx.recyclerview.widget.GridLayoutManager
 import com.example.gallery.adapter.SelectedImageAdapter
